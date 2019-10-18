@@ -274,6 +274,6 @@ wadextract/
 *.o
 Makefile
 config.*
-wad.h
 gzinject
 *.zip
+autom4te.cache/
